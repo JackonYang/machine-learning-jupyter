@@ -1,5 +1,12 @@
 # Machine Learning Jupyter Notebooks
 
+## Table of Contents
+
+#### Hidden Markov Model
+
+- [the basic model of fever](hidden_markov_model/01_hmm_fever.ipynb)
+- [supervised learning for Chinese words segmentation](hidden_markov_model/02_hmm_supervised_learning_segmentation.ipynb)
+
 ## ENV
 
 Python 3.7.0
