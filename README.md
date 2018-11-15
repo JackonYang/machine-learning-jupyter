@@ -6,6 +6,14 @@
 
 - [the basic model of fever](hidden_markov_model/01_hmm_fever.ipynb)
 - [supervised learning for Chinese words segmentation](hidden_markov_model/02_hmm_supervised_learning_segmentation.ipynb)
+- [predict using viterbi -- Part-of-Speech](hidden_markov_model/03_predict_viterbi_pos.ipynb)
+- [predict using viterbi -- Chinese segmentation](hidden_markov_model/04_predict_viterbi_zh_segmentation.ipynb)
+
+references:
+
+1. [统计学习方法 -- 李航](https://book.douban.com/subject/10590856/)
+2. [Speech and Language Processing -- Daniel Jurafsky](https://book.douban.com/subject/2403834/)
+3. [隐马尔科夫模型（HMM）及其Python实现](https://applenob.github.io/hmm.html)
 
 ## ENV
 
